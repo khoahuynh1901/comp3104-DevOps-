@@ -1,20 +1,12 @@
 {
   "name": "comp3104",
   "version": "1.0.0",
-  "description": "- Hello world",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/khoahuynh1901/comp3104-DevOps-.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/khoahuynh1901/comp3104-DevOps-/issues"
-  },
-  "homepage": "https://github.com/khoahuynh1901/comp3104-DevOps-#readme"
+  "license": "ISC"
 }
